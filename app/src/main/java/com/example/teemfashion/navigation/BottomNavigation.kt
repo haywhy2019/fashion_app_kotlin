@@ -13,7 +13,7 @@ import androidx.navigation.NavController
 import androidx.navigation.NavDestination.Companion.hierarchy
 import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.compose.currentBackStackEntryAsState
-import com.example.flightbooking.navigation.listOfNavItems
+import com.example.teemfashion.navigation.listOfNavItems
 
 @Composable
 fun BottomNavigation(navController: NavController){
